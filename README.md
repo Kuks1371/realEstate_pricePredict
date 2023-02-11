@@ -1,6 +1,7 @@
 # realEstate_pricePredict
 
 This project is a part of my engineering diploma work "Machine learning methods in real estate market prediction".
+It aims to choose the best suited method for apartments price prediction in Cracow.
 
 Program contains:
 - Obtaining data + additional informations from openstreetmaps and googlemaps API's.
